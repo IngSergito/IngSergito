@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IngSergito
+- 👀 I’m interested in web scrapping, web development, visual basic for applications (Microsoft Excel)
+- 🌱 I’m currently learning Javascript, VBA, Python
+- 💞️ I’m looking to collaborate on anything that retrieves me some decent payment
+- 📫 How to reach me (Whatsapp +5354206843)
